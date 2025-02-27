@@ -8,6 +8,6 @@ of modern vcs-based platforms, where Open Source is not only about source [code]
 
 # DRAFT
 
-- [ ] code
-
+- [ ] source code
+- [ ] make build script
 

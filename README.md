@@ -9,5 +9,7 @@ of modern vcs-based platforms, where Open Source is not only about source [code]
 # DRAFT
 
 - [ ] source code
+  - [ ] C file
+  - [ ] Python script
 - [ ] make build script
 

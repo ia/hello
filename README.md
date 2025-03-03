@@ -13,4 +13,5 @@ of modern vcs-based platforms, where Open Source is not only about source [code]
   - [ ] Python script
 - [ ] make build script
 - [ ] documentation
+  - [ ] ReadTheDocs
 
